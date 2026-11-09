@@ -126,16 +126,3 @@ Sempre busco constantemente a excelência técnica. Aqui estão as minhas certif
     </tr>
   </tbody>
 </table>
-
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="left">
-  <img height="150em" src="https://github-readme-stats-fast.vercel.app/api?username=miguelmorandini&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="150em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=miguelmorandini&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" />
-</div>
-<br />
-<div align="left">
-  <img src="https://streak-stats.demolab.com/?user=miguelmorandini&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
