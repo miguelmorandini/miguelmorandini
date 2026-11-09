@@ -36,17 +36,20 @@ Atuo na modelagem e construção de pipelines de dados robustos (ETL/ELT), aplic
 ### 🛠 Tecnologias e Ferramentas
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right: 12px;" />
-  <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Apache Spark" width="40" height="40" style="margin-right: 12px;" />
-  <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="Databricks" width="40" height="40" style="margin-right: 12px;" />
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40" style="margin-right: 12px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40" style="margin-right: 12px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle SQL" width="40" height="40" style="margin-right: 12px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" style="margin-right: 12px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40" style="margin-right: 12px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right: 12px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" style="margin-right: 12px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin-right: 12px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40" style="margin-right: 12px;" />
+  <img src="https://raw.githubusercontent.com/miguelmorandini/miguelmorandini/main/assets/databricks.svg" alt="Databricks" title="Databricks" width="40" height="40" style="margin-right: 12px;" />
+  <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Apache Spark" title="Apache Spark" width="40" height="40" style="margin-right: 12px;" />
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" title="AWS" width="40" height="40" style="margin-right: 12px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Google Firebase" title="Google Firebase" width="40" height="40" style="margin-right: 12px;" />
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" title="Power BI" width="40" height="40" style="margin-right: 12px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" title="SQL Server" width="40" height="40" style="margin-right: 12px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle SQL" title="Oracle SQL" width="40" height="40" style="margin-right: 12px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="40" height="40" style="margin-right: 12px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" title=".NET" width="40" height="40" style="margin-right: 12px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40" style="margin-right: 12px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React" width="40" height="40" style="margin-right: 12px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="40" height="40" style="margin-right: 12px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40" style="margin-right: 12px;" />
 </div>
 
 ---
@@ -129,6 +132,10 @@ Sempre busco constantemente a excelência técnica. Aqui estão as minhas certif
 ### 📊 Estatísticas do GitHub
 
 <div align="left">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=miguelmorandini&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelmorandini&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" />
+  <img height="150em" src="https://github-readme-stats-fast.vercel.app/api?username=miguelmorandini&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="150em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=miguelmorandini&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" />
+</div>
+<br />
+<div align="left">
+  <img src="https://streak-stats.demolab.com/?user=miguelmorandini&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
