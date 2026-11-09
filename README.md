@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://credentials.databricks.com/assets/themes/credentials.databricks.com/images/banner_background.png?v=1644841203310" width="100%" alt="Databricks Banner" />
+</p>
+
 <h1 align="left">⚡ Miguel Morandini</h1>
 
 <h3>Engenheiro de Dados & Desenvolvedor de Software | Foco em Databricks, PySpark & IA</h3>
@@ -11,7 +15,7 @@
 ### 📫 Como me encontrar
 
 <div align="left">
-  <a href="mailto:miguel_mmorandini@outlook.com">
+  <a href="mailto:miguel_mmorandini@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMi41IDRoLTExQTEuNSAxLjUgMCAwIDAgMTAgNS41djEzQTEuNSAxLjUgMCAwIDAgMTEuNSAyMGgxMWExLjUgMS41IDAgMCAwIDEuNS0xLjV2LTEzQTEuNSAxLjUgMCAwIDAgMjIuNSA0em0wIDIuNWwtNS41IDMuNS01LjUtMy41di0xbDUuNSAzLjUgNS41LTMuNXYxem0tMTMgMS41SDIuNUExLjUgMS41IDAgMCAwIDEgOS41djhBMS41IDEuNSAwIDAgMCAyLjUgMTlIOS41di0xMXoiLz48L3N2Zz4%3D" alt="Outlook" />
   </a>
   <a href="https://linkedin.com/in/miguelmorandini" target="_blank">
@@ -47,49 +51,44 @@ Atuo na modelagem e construção de pipelines de dados robustos (ETL/ELT), aplic
 
 ---
 
-### 🖊 Certificações e Formação
+### 🖊 Certificações
 
-Sempre busco constantemente a excelência acadêmica e técnica. Aqui estão os pilares da minha jornada:
+Sempre busco constantemente a excelência técnica. Aqui estão as minhas certificações:
 
-<table>
+<table align="center" width="100%">
   <tr>
-    <!-- Item 1: FATEC -->
-    <td align="center" width="16%">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graduation-cap/graduation-cap-original.svg" width="90px" alt="FATEC" /><br />
-      <sub><b>Graduação</b></sub><br />
-      <a href="https://www.fatec.sp.gov.br/" target="_blank">Desenvolvimento de Software Multiplataforma — FATEC</a>
-    </td>
-    <!-- Item 2: Databricks Fundamentals (Seu link e badge oficiais da Databricks) -->
-    <td align="center" width="16%">
+    <!-- Item 1: Databricks Fundamentals -->
+    <td align="center" width="33%">
       <a href="https://credentials.databricks.com/0319ebe6-8233-4d7b-b4a7-b8124d2fdbb1#acc.zXr8Dy9l" target="_blank">
-        <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/0319ebe6-8233-4d7b-b4a7-b8124d2fdbb1" width="120px" alt="Databricks Accreditation" />
-      </a><br />
+        <img src="https://raw.githubusercontent.com/miguelmorandini/miguelmorandini/main/assets/databricks-fundamentals.png" width="160px" alt="Databricks Fundamentals" />
+      </a>
+      <br /><br />
       <sub><b>Databricks Academy</b></sub><br />
-      <a href="https://credentials.databricks.com/0319ebe6-8233-4d7b-b4a7-b8124d2fdbb1#acc.zXr8Dy9l" target="_blank">Academy Accreditation - Databricks Fundamentals</a>
+      <a href="https://credentials.databricks.com/0319ebe6-8233-4d7b-b4a7-b8124d2fdbb1#acc.zXr8Dy9l" target="_blank">
+        <b>Academy Accreditation - Databricks Fundamentals</b>
+      </a>
     </td>
-    <!-- Item 3: Databricks Data Engineer Associate -->
-    <td align="center" width="16%">
-      <img src="https://images.credly.com/size/340x340/images/96b82967-a06a-4d7a-8f55-728b9fb6c0e8/image.png" width="90px" alt="Databricks Data Engineer Associate" /><br />
-      <sub><b>Databricks</b></sub><br />
-      <a href="https://www.databricks.com/learn/certification" target="_blank">Databricks Certified Data Engineer Associate</a>
+    <!-- Item 2: AWS Academy Cloud Developing -->
+    <td align="center" width="33%">
+      <a href="https://www.credly.com/badges/b2dc6e15-6520-46e5-aa07-6a7d58a581e0" target="_blank">
+        <img src="https://raw.githubusercontent.com/miguelmorandini/miguelmorandini/main/assets/aws-cloud-developing.png" width="160px" alt="AWS Academy Cloud Developing" />
+      </a>
+      <br /><br />
+      <sub><b>AWS Academy Graduate</b></sub><br />
+      <a href="https://www.credly.com/badges/b2dc6e15-6520-46e5-aa07-6a7d58a581e0" target="_blank">
+        <b>AWS Academy: Cloud Developing</b>
+      </a>
     </td>
-    <!-- Item 4: Databricks Data Engineer Professional -->
-    <td align="center" width="16%">
-      <img src="https://images.credly.com/size/340x340/images/d31613eb-3142-43bb-a576-ff5b92cbfa4a/image.png" width="90px" alt="Databricks Data Engineer Professional" /><br />
-      <sub><b>Databricks</b></sub><br />
-      <a href="https://www.databricks.com/learn/certification" target="_blank">Databricks Certified Data Engineer Professional</a>
-    </td>
-    <!-- Item 5: AWS Cloud Practitioner -->
-    <td align="center" width="16%">
-      <img src="https://images.credly.com/size/340x340/images/00634c60-e14a-4a74-99d4-1a3b19280d96/image.png" width="90px" alt="AWS Cloud Practitioner" /><br />
-      <sub><b>AWS Certification</b></sub><br />
-      <a href="https://aws.amazon.com/certification/" target="_blank">AWS Certified Cloud Practitioner</a>
-    </td>
-    <!-- Item 6: Azure Data Fundamentals -->
-    <td align="center" width="16%">
-      <img src="https://images.credly.com/size/340x340/images/70e47453-e3e4-49cf-8b12-91182dbca58a/azure-data-fundamentals-600x600.png" width="90px" alt="Azure Data Fundamentals" /><br />
-      <sub><b>Microsoft Certified</b></sub><br />
-      <a href="https://learn.microsoft.com/certifications/" target="_blank">Azure Data Fundamentals</a>
+    <!-- Item 3: AWS Academy Machine Learning Foundations -->
+    <td align="center" width="33%">
+      <a href="https://www.credly.com/badges/dd90d770-ebb5-46e2-84d2-d2cd9dd95cb4" target="_blank">
+        <img src="https://raw.githubusercontent.com/miguelmorandini/miguelmorandini/main/assets/aws-machine-learning.png" width="160px" alt="AWS Machine Learning Foundations" />
+      </a>
+      <br /><br />
+      <sub><b>AWS Academy Graduate</b></sub><br />
+      <a href="https://www.credly.com/badges/dd90d770-ebb5-46e2-84d2-d2cd9dd95cb4" target="_blank">
+        <b>AWS Academy: Machine Learning Foundations</b>
+      </a>
     </td>
   </tr>
 </table>
@@ -108,17 +107,17 @@ Sempre busco constantemente a excelência acadêmica e técnica. Aqui estão os 
   </thead>
   <tbody>
     <tr>
-      <td><b><a href="https://github.com/miguelmorandini/lakehouse-vendas">Lakehouse de Vendas com Databricks</a></b></td>
+      <td><b><a href="https://github.com/miguelmorandini/lakehouse-vendas" target="_blank">Lakehouse de Vendas com Databricks</a></b></td>
       <td>Arquitetura Medallion completa (Bronze ➔ Silver ➔ Gold), com processamento distribuído em Spark, Delta Lake e governança com Unity Catalog.</td>
       <td><code>Databricks</code> <code>PySpark</code> <code>Delta Lake</code> <code>SQL</code></td>
     </tr>
     <tr>
-      <td><b><a href="https://github.com/miguelmorandini/chat-pdf-rag">Chat com PDF via RAG & Gemini</a></b></td>
+      <td><b><a href="https://github.com/miguelmorandini/chat-pdf-rag" target="_blank">Chat com PDF via RAG & Gemini</a></b></td>
       <td>Aplicação interativa de perguntas e respostas sobre documentos usando Retrieval-Augmented Generation (RAG) e a API do Google Gemini.</td>
       <td><code>Python</code> <code>Gemini API</code> <code>LangChain</code> <code>VectorDB</code></td>
     </tr>
     <tr>
-      <td><b><a href="https://github.com/miguelmorandini/airpong">AirPong — Jogo com Visão Computacional</a></b></td>
+      <td><b><a href="https://github.com/miguelmorandini/airpong" target="_blank">AirPong — Jogo com Visão Computacional</a></b></td>
       <td>Jogo clássico de Pong controlado em tempo real via rastreamento de gestos manuais através da webcam.</td>
       <td><code>Python</code> <code>OpenCV</code> <code>MediaPipe</code></td>
     </tr>
