@@ -1,13 +1,9 @@
 <p align="center">
-  <img src="https://credentials.databricks.com/assets/themes/credentials.databricks.com/images/banner_background.png?v=1644841203310" width="100%" alt="Databricks Banner" />
+  <img src="https://raw.githubusercontent.com/miguelmorandini/miguelmorandini/main/assets/banner.svg" width="100%" alt="Miguel Morandini Banner" />
 </p>
 
-<h1 align="left">⚡ Miguel Morandini</h1>
-
-<h3>Engenheiro de Dados & Desenvolvedor de Software | Foco em Databricks, PySpark & IA</h3>
-
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=0078D4&multiline=false&width=700&height=35&lines=Transformando+dados+brutos+em+arquiteturas+escal%C3%A1veis.;Construindo+Lakehouses+com+Databricks+%26+Delta+Lake.;Desenvolvendo+aplica%C3%A7%C3%B5es+inteligentes+com+RAG+%26+LLMs.;Modelagem+Medallion+(Bronze%2C+Silver%2C+Gold)+%26+Governan%C3%A7a." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=10B981&multiline=false&width=700&height=35&lines=Transformando+dados+brutos+em+arquiteturas+escal%C3%A1veis.;Construindo+Lakehouses+com+Databricks+%26+Delta+Lake.;Desenvolvendo+aplica%C3%A7%C3%B5es+inteligentes+com+RAG+%26+LLMs.;Modelagem+Medallion+(Bronze%2C+Silver%2C+Gold)+%26+Governan%C3%A7a." alt="Typing SVG" />
 </p>
 
 ---

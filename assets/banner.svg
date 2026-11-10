@@ -1,0 +1,92 @@
+<svg width="1000" height="220" viewBox="0 0 1000 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#04120c" />
+      <stop offset="50%" stop-color="#081c14" />
+      <stop offset="100%" stop-color="#030d08" />
+    </linearGradient>
+
+    <!-- Green Glow Gradient -->
+    <radialGradient id="green-glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#10b981" stop-opacity="0.32" />
+      <stop offset="100%" stop-color="#10b981" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Border Accent Gradient -->
+    <linearGradient id="line-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10b981" stop-opacity="0" />
+      <stop offset="30%" stop-color="#10b981" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#34d399" stop-opacity="1" />
+      <stop offset="70%" stop-color="#10b981" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#10b981" stop-opacity="0" />
+    </linearGradient>
+
+    <!-- Technical Grid Pattern -->
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#10b981" stroke-width="1" stroke-opacity="0.08" />
+    </pattern>
+  </defs>
+
+  <style>
+    .title {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      font-weight: 800;
+      font-size: 38px;
+      fill: #ffffff;
+      letter-spacing: 4px;
+    }
+    .badge-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Fira Code', monospace;
+      font-weight: 600;
+      font-size: 13px;
+      fill: #34d399;
+      letter-spacing: 2.5px;
+    }
+    .subtitle {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      font-weight: 500;
+      font-size: 18px;
+      fill: #a7f3d0;
+      letter-spacing: 1px;
+    }
+    .tag {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Fira Code', monospace;
+      font-weight: 500;
+      font-size: 13px;
+      fill: #6ee7b7;
+      letter-spacing: 2px;
+    }
+  </style>
+
+  <!-- Background Base -->
+  <rect width="1000" height="220" rx="14" fill="url(#bg-gradient)" />
+  <rect width="1000" height="220" rx="14" fill="url(#grid)" />
+
+  <!-- Ambient Glows -->
+  <circle cx="500" cy="110" r="240" fill="url(#green-glow)" />
+  <circle cx="150" cy="50" r="140" fill="url(#green-glow)" />
+  <circle cx="850" cy="170" r="150" fill="url(#green-glow)" />
+
+  <!-- Outer Border -->
+  <rect x="1" y="1" width="998" height="218" rx="13" fill="none" stroke="#10b981" stroke-opacity="0.35" stroke-width="1.5" />
+
+  <!-- Top Pill Badge -->
+  <g transform="translate(500, 48)">
+    <rect x="-165" y="-14" width="330" height="28" rx="14" fill="#064e3b" fill-opacity="0.65" stroke="#10b981" stroke-opacity="0.5" stroke-width="1" />
+    <circle cx="-140" cy="0" r="4.5" fill="#34d399" />
+    <text x="6" y="4.5" text-anchor="middle" class="badge-text">DATA ENGINEERING &amp; AI</text>
+  </g>
+
+  <!-- Name / Main Title -->
+  <text x="500" y="115" text-anchor="middle" class="title">MIGUEL MORANDINI</text>
+
+  <!-- Subtitle -->
+  <text x="500" y="150" text-anchor="middle" class="subtitle">Engenheiro de Dados &amp; Desenvolvedor de Software</text>
+
+  <!-- Accent Divider Line -->
+  <line x1="160" y1="174" x2="840" y2="174" stroke="url(#line-gradient)" stroke-width="2" />
+
+  <!-- Tech Tags -->
+  <text x="500" y="198" text-anchor="middle" class="tag">DATABRICKS  ◆  PYSPARK  ◆  DELTA LAKE  ◆  AWS  ◆  GEN AI</text>
+</svg>
