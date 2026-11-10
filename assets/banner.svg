@@ -1,92 +1,105 @@
-<svg width="1000" height="220" viewBox="0 0 1000 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1000" height="310" viewBox="0 0 1000 310" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <!-- Background Gradient -->
-    <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#04120c" />
-      <stop offset="50%" stop-color="#081c14" />
-      <stop offset="100%" stop-color="#030d08" />
+    <!-- Subtle drop shadow for terminal window -->
+    <filter id="terminal-shadow" x="-10" y="-10" width="1020" height="330" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000000" flood-opacity="0.45" />
+    </filter>
+    <!-- Soft green glow on execution output -->
+    <linearGradient id="exec-glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#238636" stop-opacity="0.25" />
+      <stop offset="100%" stop-color="#2ea043" stop-opacity="0.05" />
     </linearGradient>
-
-    <!-- Green Glow Gradient -->
-    <radialGradient id="green-glow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#10b981" stop-opacity="0.32" />
-      <stop offset="100%" stop-color="#10b981" stop-opacity="0" />
-    </radialGradient>
-
-    <!-- Border Accent Gradient -->
-    <linearGradient id="line-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#10b981" stop-opacity="0" />
-      <stop offset="30%" stop-color="#10b981" stop-opacity="0.8" />
-      <stop offset="50%" stop-color="#34d399" stop-opacity="1" />
-      <stop offset="70%" stop-color="#10b981" stop-opacity="0.8" />
-      <stop offset="100%" stop-color="#10b981" stop-opacity="0" />
-    </linearGradient>
-
-    <!-- Technical Grid Pattern -->
-    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
-      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#10b981" stroke-width="1" stroke-opacity="0.08" />
-    </pattern>
   </defs>
 
   <style>
-    .title {
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-      font-weight: 800;
-      font-size: 38px;
-      fill: #ffffff;
-      letter-spacing: 4px;
+    .code-text {
+      font-family: 'Fira Code', 'JetBrains Mono', 'Cascadia Code', 'Consolas', 'Courier New', monospace;
+      font-size: 14px;
+      line-height: 22px;
     }
-    .badge-text {
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Fira Code', monospace;
-      font-weight: 600;
-      font-size: 13px;
-      fill: #34d399;
-      letter-spacing: 2.5px;
+    .c-gray { fill: #8b949e; }
+    .c-purple { fill: #d2a8ff; font-weight: 600; }
+    .c-blue { fill: #79c0ff; }
+    .c-green { fill: #7ee787; }
+    .c-orange { fill: #ffa657; }
+    .c-yellow { fill: #f2cc60; }
+    .c-white { fill: #f0f6fc; }
+    .c-success { fill: #3fb950; font-weight: 600; }
+    .prompt { fill: #388bfd; font-weight: bold; }
+    .cursor {
+      animation: blink 1s infinite;
     }
-    .subtitle {
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-      font-weight: 500;
-      font-size: 18px;
-      fill: #a7f3d0;
-      letter-spacing: 1px;
-    }
-    .tag {
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Fira Code', monospace;
-      font-weight: 500;
-      font-size: 13px;
-      fill: #6ee7b7;
-      letter-spacing: 2px;
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
     }
   </style>
 
-  <!-- Background Base -->
-  <rect width="1000" height="220" rx="14" fill="url(#bg-gradient)" />
-  <rect width="1000" height="220" rx="14" fill="url(#grid)" />
+  <!-- Terminal Window Background -->
+  <rect x="2" y="2" width="996" height="306" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1.5" filter="url(#terminal-shadow)" />
 
-  <!-- Ambient Glows -->
-  <circle cx="500" cy="110" r="240" fill="url(#green-glow)" />
-  <circle cx="150" cy="50" r="140" fill="url(#green-glow)" />
-  <circle cx="850" cy="170" r="150" fill="url(#green-glow)" />
+  <!-- Window Header Bar -->
+  <path d="M 2 12 Q 2 2 12 2 L 988 2 Q 998 2 998 12 L 998 38 L 2 38 Z" fill="#161b22" />
+  <line x1="2" y1="38" x2="998" y2="38" stroke="#30363d" stroke-width="1" />
 
-  <!-- Outer Border -->
-  <rect x="1" y="1" width="998" height="218" rx="13" fill="none" stroke="#10b981" stroke-opacity="0.35" stroke-width="1.5" />
+  <!-- Mac / Window Control Dots -->
+  <circle cx="24" cy="20" r="6" fill="#ff5f56" stroke="#e0443e" stroke-width="0.5" />
+  <circle cx="44" cy="20" r="6" fill="#ffbd2e" stroke="#dea123" stroke-width="0.5" />
+  <circle cx="64" cy="20" r="6" fill="#27c93f" stroke="#1aab29" stroke-width="0.5" />
 
-  <!-- Top Pill Badge -->
-  <g transform="translate(500, 48)">
-    <rect x="-165" y="-14" width="330" height="28" rx="14" fill="#064e3b" fill-opacity="0.65" stroke="#10b981" stroke-opacity="0.5" stroke-width="1" />
-    <circle cx="-140" cy="0" r="4.5" fill="#34d399" />
-    <text x="6" y="4.5" text-anchor="middle" class="badge-text">DATA ENGINEERING &amp; AI</text>
+  <!-- Window Title -->
+  <text x="500" y="24" text-anchor="middle" fill="#8b949e" font-family="'Fira Code', monospace" font-size="12" font-weight="500">
+    miguel@lakehouse:~ (pyspark-env)
+  </text>
+
+  <!-- Terminal Body Content -->
+  <g class="code-text" transform="translate(30, 68)">
+    <!-- Command 1: Prompt -->
+    <text x="0" y="0">
+      <tspan class="prompt">❯ </tspan><tspan class="c-white">cat data_engineer.py</tspan>
+    </text>
+
+    <!-- Code Line 1 -->
+    <text x="0" y="24">
+      <tspan class="c-purple">class </tspan><tspan class="c-yellow">MiguelMorandini</tspan><tspan class="c-white">:</tspan>
+    </text>
+
+    <!-- Code Line 2 -->
+    <text x="24" y="46">
+      <tspan class="c-purple">def </tspan><tspan class="c-blue">__init__</tspan><tspan class="c-white">(self):</tspan>
+    </text>
+
+    <!-- Code Line 3 -->
+    <text x="48" y="68">
+      <tspan class="c-white">self.role = </tspan><tspan class="c-green">"Engenheiro de Dados &amp; Desenvolvedor de Software"</tspan>
+    </text>
+
+    <!-- Code Line 4 -->
+    <text x="48" y="90">
+      <tspan class="c-white">self.core_stack = [</tspan><tspan class="c-green">"Databricks"</tspan><tspan class="c-white">, </tspan><tspan class="c-green">"PySpark"</tspan><tspan class="c-white">, </tspan><tspan class="c-green">"Delta Lake"</tspan><tspan class="c-white">, </tspan><tspan class="c-green">"AWS"</tspan><tspan class="c-white">, </tspan><tspan class="c-green">"GenAI"</tspan><tspan class="c-white">]</tspan>
+    </text>
+
+    <!-- Code Line 5 -->
+    <text x="48" y="112">
+      <tspan class="c-white">self.architecture = </tspan><tspan class="c-green">"Lakehouse Medallion (Bronze ➔ Silver ➔ Gold)"</tspan>
+    </text>
+
+    <!-- Code Line 6 -->
+    <text x="48" y="134">
+      <tspan class="c-white">self.focus = </tspan><tspan class="c-green">"Transformar dados brutos em pipelines escaláveis &amp; IA aplicada"</tspan>
+    </text>
+
+    <!-- Command 2: Execute -->
+    <text x="0" y="168">
+      <tspan class="prompt">❯ </tspan><tspan class="c-white">python -m data_engineer --status</tspan>
+    </text>
+
+    <!-- Output Pill / Box -->
+    <rect x="-8" y="180" width="940" height="32" rx="6" fill="url(#exec-glow)" stroke="#238636" stroke-width="1" />
+    <text x="12" y="201">
+      <tspan class="c-success">✔ [SYSTEM ONLINE] </tspan>
+      <tspan class="c-white">Lakehouse pronto para deploy &amp; arquiteturas de alta performance.</tspan>
+      <tspan class="c-green cursor"> █</tspan>
+    </text>
   </g>
-
-  <!-- Name / Main Title -->
-  <text x="500" y="115" text-anchor="middle" class="title">MIGUEL MORANDINI</text>
-
-  <!-- Subtitle -->
-  <text x="500" y="150" text-anchor="middle" class="subtitle">Engenheiro de Dados &amp; Desenvolvedor de Software</text>
-
-  <!-- Accent Divider Line -->
-  <line x1="160" y1="174" x2="840" y2="174" stroke="url(#line-gradient)" stroke-width="2" />
-
-  <!-- Tech Tags -->
-  <text x="500" y="198" text-anchor="middle" class="tag">DATABRICKS  ◆  PYSPARK  ◆  DELTA LAKE  ◆  AWS  ◆  GEN AI</text>
 </svg>
