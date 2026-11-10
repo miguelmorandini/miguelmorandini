@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/miguelmorandini/miguelmorandini/main/assets/banner.svg" width="100%" alt="Terminal - Miguel Morandini" />
+  <img src="https://raw.githubusercontent.com/miguelmorandini/miguelmorandini/main/assets/banner.png" width="100%" alt="Miguel Morandini - Data Engineer" />
+</p>
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=FF3621&multiline=false&width=700&height=35&lines=Transformando+dados+brutos+em+arquiteturas+escal%C3%A1veis.;Construindo+Lakehouses+com+Databricks+%26+Delta+Lake.;Desenvolvendo+aplica%C3%A7%C3%B5es+inteligentes+com+RAG+%26+LLMs.;Modelagem+Medallion+(Bronze%2C+Silver%2C+Gold)+%26+Governan%C3%A7a." alt="Typing SVG" />
 </p>
 
 ---
