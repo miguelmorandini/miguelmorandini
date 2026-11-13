@@ -3,12 +3,12 @@
 </p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=FF3621&multiline=false&width=700&height=35&lines=Transformando+dados+brutos+em+arquiteturas+escal%C3%A1veis.;Construindo+Lakehouses+com+Databricks+%26+Delta+Lake.;Desenvolvendo+aplica%C3%A7%C3%B5es+inteligentes+com+RAG+%26+LLMs.;Modelagem+Medallion+(Bronze%2C+Silver%2C+Gold)+%26+Governan%C3%A7a." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=FF3621&multiline=false&width=700&height=35&lines=Transforming+raw+data+into+scalable+architectures.;Building+Lakehouses+with+Databricks+%26+Delta+Lake.;Developing+intelligent+applications+with+RAG+%26+LLMs.;Medallion+Modeling+(Bronze%2C+Silver%2C+Gold)+%26+Governance." alt="Typing SVG" />
 </p>
 
 ---
 
-### 📫 Como me encontrar
+### 📫 How to reach me
 
 <div align="left">
   <a href="mailto:miguel_mmorandini@outlook.com" target="_blank">
@@ -21,15 +21,15 @@
 
 ---
 
-### 🚀 Sobre Mim
+### 🚀 About Me
 
-Sou graduando em **Desenvolvimento de Software Multiplataforma** pela **FATEC**, com foco e atuação em **Engenharia de Dados**, arquiteturas **Lakehouse** e soluções aplicadas com **Inteligência Artificial**.
+I am an undergraduate student in **Multiplatform Software Development** at **FATEC**, focused on **Data Engineering**, **Lakehouse** architectures, and applied **Artificial Intelligence** solutions.
 
-Atuo na modelagem e construção de pipelines de dados robustos (ETL/ELT), aplicando as melhores práticas da **Arquitetura Medallion (Bronze, Silver e Gold)** com **Databricks**, **Delta Lake** e governança via **Unity Catalog**. Além disso, uno a engenharia de dados ao ecossistema de GenAI, desenvolvendo desde aplicações analíticas distribuídas com **PySpark** até assistentes inteligentes baseados em **RAG (Retrieval-Augmented Generation)** com **LLMs**.
+I work on modeling and building robust data pipelines (ETL/ELT), applying best practices of the **Medallion Architecture (Bronze, Silver, and Gold)** with **Databricks**, **Delta Lake**, and governance via **Unity Catalog**. In addition, I combine data engineering with the GenAI ecosystem, developing everything from distributed analytical applications with **PySpark** to intelligent assistants powered by **RAG (Retrieval-Augmented Generation)** and **LLMs**.
 
 ---
 
-### 🛠 Tecnologias e Ferramentas
+### 🛠 Technologies & Tools
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40" style="margin-right: 12px;" />
@@ -50,9 +50,9 @@ Atuo na modelagem e construção de pipelines de dados robustos (ETL/ELT), aplic
 
 ---
 
-### 🖊 Certificações
+### 🖊 Courses & Certifications
 
-Sempre busco constantemente a excelência técnica. Aqui estão as minhas certificações:
+I continuously strive for technical excellence. Here are my courses and certifications:
 
 <table align="center" width="100%">
   <tr>
@@ -94,30 +94,35 @@ Sempre busco constantemente a excelência técnica. Aqui estão as minhas certif
 
 ---
 
-### 📌 Projetos em Destaque
+### 📌 Featured Projects
 
 <table>
   <thead>
     <tr>
-      <th align="left">Projeto</th>
-      <th align="left">Descrição</th>
-      <th align="left">Tecnologias</th>
+      <th align="left">Project</th>
+      <th align="left">Description</th>
+      <th align="left">Technologies</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><b><a href="https://github.com/miguelmorandini/lakehouse-vendas" target="_blank">Lakehouse de Vendas com Databricks</a></b></td>
-      <td>Arquitetura Medallion completa (Bronze ➔ Silver ➔ Gold), com processamento distribuído em Spark, Delta Lake e governança com Unity Catalog.</td>
+      <td><b><a href="https://github.com/miguelmorandini/byteword" target="_blank">ByteWord — Tech Game & dbt Analytics Pipeline</a></b></td>
+      <td>Tech word-guessing game powered by Streamlit and DuckDB, featuring an end-to-end dbt Core analytical pipeline (ELT, Jinja macros, ranking marts, and data quality tests).</td>
+      <td><code>Python</code> <code>dbt Core</code> <code>DuckDB</code> <code>Streamlit</code></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/miguelmorandini/lakehouse-vendas" target="_blank">Sales Lakehouse with Databricks</a></b></td>
+      <td>Complete Medallion Architecture (Bronze ➔ Silver ➔ Gold), featuring distributed processing with Spark, Delta Lake, and governance with Unity Catalog.</td>
       <td><code>Databricks</code> <code>PySpark</code> <code>Delta Lake</code> <code>SQL</code></td>
     </tr>
     <tr>
-      <td><b><a href="https://github.com/miguelmorandini/chat-pdf-rag" target="_blank">Chat com PDF via RAG & Gemini</a></b></td>
-      <td>Aplicação interativa de perguntas e respostas sobre documentos usando Retrieval-Augmented Generation (RAG) e a API do Google Gemini.</td>
+      <td><b><a href="https://github.com/miguelmorandini/chat-pdf-rag" target="_blank">Chat with PDF via RAG & Gemini</a></b></td>
+      <td>Interactive document Q&A application using Retrieval-Augmented Generation (RAG) and the Google Gemini API.</td>
       <td><code>Python</code> <code>Gemini API</code> <code>LangChain</code> <code>VectorDB</code></td>
     </tr>
     <tr>
-      <td><b><a href="https://github.com/miguelmorandini/airpong" target="_blank">AirPong — Jogo com Visão Computacional</a></b></td>
-      <td>Jogo clássico de Pong controlado em tempo real via rastreamento de gestos manuais através da webcam.</td>
+      <td><b><a href="https://github.com/miguelmorandini/airpong" target="_blank">AirPong — Computer Vision Game</a></b></td>
+      <td>Classic Pong game controlled in real time via hand gesture tracking through the webcam.</td>
       <td><code>Python</code> <code>OpenCV</code> <code>MediaPipe</code></td>
     </tr>
   </tbody>
