@@ -3,7 +3,7 @@
 </p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=FF3621&multiline=false&width=700&height=35&lines=Transforming+raw+data+into+scalable+architectures.;Building+Lakehouses+with+Databricks+%26+Delta+Lake.;Developing+intelligent+applications+with+RAG+%26+LLMs.;Medallion+Modeling+(Bronze%2C+Silver%2C+Gold)+%26+Governance." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=10B981&multiline=false&width=700&height=35&lines=Transforming+raw+data+into+scalable+architectures.;Building+Lakehouses+with+Databricks+%26+Delta+Lake.;Developing+intelligent+applications+with+RAG+%26+LLMs.;Medallion+Modeling+(Bronze%2C+Silver%2C+Gold)+%26+Governance." alt="Typing SVG" />
 </p>
 
 ---
