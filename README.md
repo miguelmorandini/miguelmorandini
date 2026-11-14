@@ -111,7 +111,7 @@ I continuously strive for technical excellence. Here are my courses and certific
       <td><code>Python</code> <code>dbt Core</code> <code>DuckDB</code> <code>Streamlit</code></td>
     </tr>
     <tr>
-      <td><b><a href="https://github.com/miguelmorandini/lakehouse-vendas" target="_blank">Sales Lakehouse with Databricks</a></b></td>
+      <td><b><a href="https://github.com/miguelmorandini/lakehouse-build" target="_blank">Sales Lakehouse with Databricks</a></b></td>
       <td>Complete Medallion Architecture (Bronze ➔ Silver ➔ Gold), featuring distributed processing with Spark, Delta Lake, and governance with Unity Catalog.</td>
       <td><code>Databricks</code> <code>PySpark</code> <code>Delta Lake</code> <code>SQL</code></td>
     </tr>
