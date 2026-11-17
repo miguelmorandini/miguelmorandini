@@ -59,7 +59,7 @@ I continuously strive for technical excellence. Here are my courses and certific
     <!-- Item 1: Databricks Certified Data Engineer Associate -->
     <td align="center" width="25%">
       <a href="https://credentials.databricks.com/dabe765e-8f07-4eda-8ac4-54021616e652#acc.Ok6XlSY0" target="_blank">
-        <img src="https://raw.githubusercontent.com/miguelmorandini/miguelmorandini/main/assets/databricks-data-engineer-associate.png" width="150px" alt="Databricks Certified Data Engineer Associate" />
+        <img src="https://raw.githubusercontent.com/miguelmorandini/miguelmorandini/main/assets/databricks-data-engineer-associate.png" height="140px" alt="Databricks Certified Data Engineer Associate" />
       </a>
       <br /><br />
       <sub><b>Databricks Certified</b></sub><br />
@@ -70,7 +70,7 @@ I continuously strive for technical excellence. Here are my courses and certific
     <!-- Item 2: Databricks Fundamentals -->
     <td align="center" width="25%">
       <a href="https://credentials.databricks.com/0319ebe6-8233-4d7b-b4a7-b8124d2fdbb1#acc.zXr8Dy9l" target="_blank">
-        <img src="https://raw.githubusercontent.com/miguelmorandini/miguelmorandini/main/assets/databricks-fundamentals.png" width="150px" alt="Databricks Fundamentals" />
+        <img src="https://raw.githubusercontent.com/miguelmorandini/miguelmorandini/main/assets/databricks-fundamentals.png" height="140px" alt="Databricks Fundamentals" />
       </a>
       <br /><br />
       <sub><b>Databricks Academy</b></sub><br />
@@ -81,7 +81,7 @@ I continuously strive for technical excellence. Here are my courses and certific
     <!-- Item 3: AWS Academy Cloud Developing -->
     <td align="center" width="25%">
       <a href="https://www.credly.com/badges/b2dc6e15-6520-46e5-aa07-6a7d58a581e0" target="_blank">
-        <img src="https://raw.githubusercontent.com/miguelmorandini/miguelmorandini/main/assets/aws-cloud-developing.png" width="150px" alt="AWS Academy Cloud Developing" />
+        <img src="https://raw.githubusercontent.com/miguelmorandini/miguelmorandini/main/assets/aws-cloud-developing.png" height="140px" alt="AWS Academy Cloud Developing" />
       </a>
       <br /><br />
       <sub><b>AWS Academy Graduate</b></sub><br />
@@ -92,7 +92,7 @@ I continuously strive for technical excellence. Here are my courses and certific
     <!-- Item 4: AWS Academy Machine Learning Foundations -->
     <td align="center" width="25%">
       <a href="https://www.credly.com/badges/dd90d770-ebb5-46e2-84d2-d2cd9dd95cb4" target="_blank">
-        <img src="https://raw.githubusercontent.com/miguelmorandini/miguelmorandini/main/assets/aws-machine-learning.png" width="150px" alt="AWS Machine Learning Foundations" />
+        <img src="https://raw.githubusercontent.com/miguelmorandini/miguelmorandini/main/assets/aws-machine-learning.png" height="140px" alt="AWS Machine Learning Foundations" />
       </a>
       <br /><br />
       <sub><b>AWS Academy Graduate</b></sub><br />
