@@ -59,7 +59,7 @@ I continuously strive for technical excellence. Here are my courses and certific
     <!-- Item 1: Databricks Certified Data Engineer Associate -->
     <td align="center" width="25%">
       <a href="https://credentials.databricks.com/dabe765e-8f07-4eda-8ac4-54021616e652#acc.Ok6XlSY0" target="_blank">
-        <img src="https://raw.githubusercontent.com/miguelmorandini/miguelmorandini/main/assets/databricks-data-engineer-associate.png?v=2" height="140px" alt="Databricks Certified Data Engineer Associate" />
+        <img src="https://raw.githubusercontent.com/miguelmorandini/miguelmorandini/main/assets/databricks-data-engineer-associate.png?v=2" height="155px" alt="Databricks Certified Data Engineer Associate" />
       </a>
       <br /><br />
       <sub><b>Databricks Certified</b></sub><br />
