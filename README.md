@@ -11,6 +11,9 @@
 ### 📫 How to reach me
 
 <div align="left">
+  <a href="https://miguelmorandini.github.io/portifolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="mailto:miguel_mmorandini@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMi41IDRoLTExQTEuNSAxLjUgMCAwIDAgMTAgNS41djEzQTEuNSAxLjUgMCAwIDAgMTEuNSAyMGgxMWExLjUgMS41IDAgMCAwIDEuNS0xLjV2LTEzQTEuNSAxLjUgMCAwIDAgMjIuNSA0em0wIDIuNWwtNS41IDMuNS01LjUtMy41di0xbDUuNSAzLjUgNS41LTMuNXYxem0tMTMgMS41SDIuNUExLjUgMS41IDAgMCAwIDEgOS41djhBMS41IDEuNSAwIDAgMCAyLjUgMTlIOS41di0xMXoiLz48L3N2Zz4%3D" alt="Outlook" />
   </a>
